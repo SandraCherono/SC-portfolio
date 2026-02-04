@@ -53,5 +53,22 @@ nav>div>a{
     background-color: rgb(114, 14, 101);
 
 }
+#contact{
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 60vh;
+    margin-top: 20px;
+}
+#contact>form{
+    padding: 24px;
+    background-color:plum ;
+    border-radius: 30px;
+    width: 60vw;
+    margin: auto;
+}
+#contact>form>div{
+    margin-top: 16px;
 
+}
+#contact>form>div{}
  
